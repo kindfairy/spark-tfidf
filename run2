@@ -1,0 +1,2 @@
+#!/bin/sh
+spark-submit target/spark-tfidf-1.0-SNAPSHOT.jar
